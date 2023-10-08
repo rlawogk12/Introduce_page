@@ -459,7 +459,8 @@ video::-webkit-media-controls {
 }
 
 .fourth-content img {
-  width: 100%;
+  width: 260px;
+  height:200px;
   overflow: hidden;
 }
 
